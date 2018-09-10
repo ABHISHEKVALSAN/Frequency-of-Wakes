@@ -1,2 +1,11 @@
-# Frequency-of-Wakes
-Finds the frequency of wakes from a 30 second video recorded with a camera of framerate 60fps.
+#-------------------------------------------#
+#------ COPY RIGHTS - ABHISHEK VALSAN ------#
+#-------------------------------------------#
+
+Press "Ctrl+Alt+T" from your linux Desktop, This will open up a Terminal.
+
+In terminal write the command "python main.py" without quotes and click ENTER.
+
+Thanks.
+
+Project Credits: Chikkan Navya Geethika, Mtech Student, IIT Kanpur, India. 
