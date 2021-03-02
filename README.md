@@ -14,4 +14,4 @@ git clone https://github.com/ABHISHEKVALSAN/Frequency-of-Wakes
 
 python Frequency-of-Wakes
 
-Project Credits: Chikkan Navya Geethika, Mtech Student, IIT Kanpur, India.
+Project Credits: Chikkan Navya Geethika, IIT Kanpur, India.
